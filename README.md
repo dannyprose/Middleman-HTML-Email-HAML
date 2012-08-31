@@ -1,0 +1,1 @@
+A Middleman 3.0 project template of the HTML Email Boilerplate (http://htmlemailboilerplate.com/), converted to HAML.
